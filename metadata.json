@@ -1,7 +1,47 @@
 {
-  "description": "Synth", 
-  "external_url": "https://github.com/yasinsil/", 
-  "image": "", 
-  "name": "Yasin Sil",
-  "attributes": [ ... ]
+  "doctype": "application/json",
+  "name": "Synthetic",
+  "description": "Bu, Nexa teknolojisini kullanarak oluşturulmuş bir projedir.",
+  "website": "https://github.com/yasinsil/",
+  "github": "https://github.com/yasinsil/",
+  "twitter": "https://github.com/yasinsil/",
+  "logo": "https://www.blockchainprojesi.com/logo.png",
+  "whitepaper": "https://www.blockchainprojesi.com/whitepaper.pdf",
+  "tech_stack": ["Ethereum", "Solidity", "Web3.js"],
+  "team": [
+    {
+      "name": "Ahmet Yılmaz",
+      "title": "CEO",
+      "email": "ahmet.yilmaz@blockchainprojesi.com"
+    },
+    {
+      "name": "Mehmet Öztürk",
+      "title": "CTO",
+      "email": "mehmet.ozturk@blockchainprojesi.com"
+    }
+  ],
+  "roadmap": [
+    {
+      "title": "Q1 2023",
+      "milestones": [
+        "Blockchain altyapısının oluşturulması",
+        "Whitepaper yayınlanması",
+        "ICO'nun yapılması"
+      ]
+    },
+    {
+      "title": "Q2 2023",
+      "milestones": [
+        "Uygulamanın geliştirilmesi",
+        "Testnet'in başlatılması"
+      ]
+    },
+    {
+      "title": "Q3 2023",
+      "milestones": [
+        "Mainnet'in başlatılması",
+        "Uygulamanın piyasaya sürülmesi"
+      ]
+    }
+  ]
 }
